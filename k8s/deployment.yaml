@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: devops-demo
-          image: ghcr.io/achunitechh/devops-demo:934ac7950aa0d6b5cf0a5383fab9c3cb1e52c750
+          image: ghcr.io/achunitechh/devops-demo:9e325c4e94a11383af298a313c70ca48806e2d1b
           imagePullPolicy: Always
           ports:
             - containerPort: 8000
